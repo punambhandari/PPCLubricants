@@ -1,0 +1,161 @@
+#wrapper{
+	width: 970px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+#wrapper a:link{
+	font-size: 10px;
+	color: #444442;
+	font-weight: bold;
+	text-decoration:none;
+	padding: 5px;
+}
+
+
+#banner{
+	
+	background: linear-gradient(to right, #E5E5E5 , white);
+	padding-bottom: 3px;
+
+}
+	#banner img{
+		display: inline-block;
+		vertical-align: top;
+
+	}
+	#banner p{
+		font-size: 12px;
+		font-weight: bold;
+		display: inline-block;
+		vertical-align: bottom;
+		padding-left: 255px;
+	}
+
+	
+ 	#banner ul {
+ 		border-top-style: solid;
+ 		border-color: #A9A9A9;
+		border-width: 1px;
+		
+		display: inline-block;
+		width: 950px;
+		height: 10px;
+		padding: 5px;
+		text-align: center;
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 1em;
+		
+	}
+	#banner ul li{
+		border-width: 1px;
+		display: inline;
+		padding: 0 5px 0 5px;	
+		vertical-align: top;
+		border-left-style: solid;
+		border-right-style: solid;
+		padding:5px;
+		border-color: #A9A9A9;
+		text-align: center;
+	}
+
+#content{
+background-color: black;
+padding: 15px 20px 15px 20px;
+
+}
+	.offers {
+		color: #EEE8AA ;
+		font-size: 10px;
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		padding: 5px 500px 5px 0;
+		display: inline;
+
+	}
+	#smalllogo {
+		width: 55px;
+		padding: 5px 0 5px 0;
+		vertical-align:middle;
+	}
+	#aboutppc{
+		
+		background: linear-gradient(#50504F, #969695);
+		display: inline-block;
+		vertical-align: top;
+		width: 515px;
+		margin:0 0px 0 10px;
+		height: 265px;
+
+	}
+	#houseimage{
+		background-color: black;
+		display: inline-block;
+		vertical-align: top;
+		height: 265px;
+	}
+	#aboutppc h2 {
+		background: linear-Gradient(to right,#FFD700,#FFFACD);
+		font-size: 16px;
+		-webkit-margin-before: 0;
+		-webkit-margin-after: 0;
+		padding: 5px;
+
+	}
+
+		#aboutppc h3 {
+		color: white;
+		font-size: 14px;
+		padding: 15px 25px 15px 25px;
+		font-weight: bold;
+		
+	}
+	#aboutppc p{
+		color: white;
+		font-size: 12px;
+		padding-left: 25px;
+	}
+
+	.infoheading {
+		font-size: 8px;
+		background-color: #FFD700;
+		height: 30px;
+		padding-top: 0;
+	}
+	
+
+
+	.divisions{
+		
+		display: inline-block;
+		vertical-align: top;
+		width: 222px;
+		min-height: 230px;
+		background-color: white;
+		margin: 3px;
+			
+	}
+	
+			.divisions h4{
+				font-size: 12px;
+				padding:  5px;
+				background: linear-Gradient(to right,#FFD700,#FFFACD);
+				-webkit-margin-before: 0;
+				-webkit-margin-after: 0;
+			}
+			
+			.divisions p{
+				font-size: 10px;
+				padding:  5px;
+				
+			}
+			.divisionimage {
+				width: 222px;
+				height: 101px;
+				
+			}
+			.readmore {
+				padding: 0 0 5px 100px ;
+				
+			}
+
